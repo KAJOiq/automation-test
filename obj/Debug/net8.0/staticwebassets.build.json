@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "73mu77pAQr+jr8l/s3ydNQwCE2+p88nDmfZ7kuQ1LBQ=",
+  "Source": "automation-test",
+  "BasePath": "_content/automation-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
